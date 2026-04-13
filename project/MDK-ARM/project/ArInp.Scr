@@ -1,0 +1,21 @@
+--create project\mylib.lib
+project\iic.o
+project\uart.o
+project\delay.o
+project\esp8266.o
+project\oled.o
+project\oled_data.o
+project\run.o
+project\stm32f1xx_hal_gpio_ex.o
+project\stm32f1xx_hal_uart.o
+project\stm32f1xx_hal.o
+project\stm32f1xx_hal_rcc.o
+project\stm32f1xx_hal_rcc_ex.o
+project\stm32f1xx_hal_gpio.o
+project\stm32f1xx_hal_dma.o
+project\stm32f1xx_hal_cortex.o
+project\stm32f1xx_hal_pwr.o
+project\stm32f1xx_hal_flash.o
+project\stm32f1xx_hal_flash_ex.o
+project\stm32f1xx_hal_exti.o
+project\system_stm32f1xx.o
